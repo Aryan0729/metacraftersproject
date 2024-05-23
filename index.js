@@ -43,5 +43,6 @@ function getTotalSupply(k) {
 
 mintNFT("Aryan",20,"Male");
 mintNFT("Arvind",30,"Male");
+mintNFT("Komal",21,"Female");
 listNFTs(nftSet);
 getTotalSupply(nftSet);
